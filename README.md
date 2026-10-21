@@ -1,4 +1,4 @@
-# 📊 Data Analysis Tool
+# 📊 Python Project - Data Analysis Tool
 
 A desktop GUI application built with Python and Tkinter that lets you load a dataset, clean it, generate grouped summary reports, and create charts, all without writing any code.
 
@@ -26,7 +26,7 @@ A desktop GUI application built with Python and Tkinter that lets you load a dat
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/data-analysis-tool.git
+   git clone https://github.com/sulagna01royofficial/Python-Project-Data-Analysis-Tool.git
    cd data-analysis-tool
 ```
 
@@ -96,4 +96,4 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Sulagna Roy**
-[GitHub](https://github.com/your-username)
+[GitHub](https://github.com/sulagna01royofficial)
