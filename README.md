@@ -27,7 +27,7 @@ A desktop GUI application built with Python and Tkinter that lets you load a dat
 1. Clone the repository:
 ```bash
    git clone https://github.com/sulagna01royofficial/Python-Project-Data-Analysis-Tool.git
-   cd data-analysis-tool
+   cd Python-Project-Data-Analysis-Tool
 ```
 
 2. (Optional) Create a virtual environment:
