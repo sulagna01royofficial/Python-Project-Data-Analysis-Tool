@@ -47,7 +47,7 @@ A desktop GUI application built with Python and Tkinter that lets you load a dat
 Run the application:
 
 ```bash
-python main.py
+Python_Project.py
 ```
 
 1. Click **Browse** and select a CSV or Excel file, then click **Read**.
@@ -61,7 +61,7 @@ python main.py
 
 ```
 Python-Project-Data-Analysis-Tool/
-├── main.py
+├── Python_Project.py
 ├── requirements.txt
 ├── screenshots/
 │   └── app_screenshot.png
