@@ -60,7 +60,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-data-analysis-tool/
+Python-Project-Data-Analysis-Tool/
 ├── main.py
 ├── requirements.txt
 ├── screenshots/
