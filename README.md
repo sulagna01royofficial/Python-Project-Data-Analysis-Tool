@@ -1,7 +1,3 @@
-# Python-Project-Data-Analysis-Tool
-A Tkinter desktop app for loading CSV/Excel data, cleaning it, generating grouped summary reports, and exporting reports and charts.
-
-
 # 📊 Data Analysis Tool
 
 A desktop GUI application built with Python and Tkinter that lets you load a dataset, clean it, generate grouped summary reports, and create charts, all without writing any code.
